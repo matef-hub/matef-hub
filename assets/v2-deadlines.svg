@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="405" viewBox="0 0 1080 405" role="img" aria-labelledby="title desc">
+<title id="title">LEGAL DEADLINES · Mohamed Atef Legal Tech</title><desc id="desc">Original branded visual concept for LEGAL DEADLINES. Features a symbolic workflow diagram, not an application screenshot.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1=".1" y2="1"><stop stop-color="#0A1425"/><stop offset=".6" stop-color="#14233B"/><stop offset="1" stop-color="#153D3B"/></linearGradient>
+<radialGradient id="shine"><stop stop-color="#75E3C7" stop-opacity=".20"/><stop offset="1" stop-color="#75E3C7" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#BFD3DF" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1080" height="405" rx="19" fill="url(#bg)"/>
+<rect width="1080" height="405" rx="19" fill="url(#grid)"/>
+<circle cx="900" cy="165" r="240" fill="url(#shine)"/>
+<path d="M48 82h984M48 341h984" stroke="#BAC6D5" stroke-opacity=".18"/>
+<path d="M48 82h170M860 82h172M48 341h150" stroke="#75E3C7" stroke-width="2"/>
+<rect x="48" y="37" width="30" height="30" rx="7" fill="#75E3C7" opacity=".95"/>
+<text x="63" y="58" text-anchor="middle" font-size="15" font-family="Arial,Helvetica,sans-serif" font-weight="800" fill="#0A1322">03</text>
+<text x="94" y="58" font-size="13" letter-spacing="2.5" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#75E3C7">PROCEDURE / ANDROID</text>
+<text x="1032" y="58" text-anchor="end" font-size="13" letter-spacing="1.4" font-family="monospace" fill="#9BAEC4">M / A   LAB</text>
+<text x="48" y="170" font-size="62" letter-spacing="-1.7" font-family="Arial,Helvetica,sans-serif" font-weight="800" fill="#F7F8F8">LEGAL DEADLINES</text>
+<rect x="49" y="194" width="32" height="3" rx="2" fill="#75E3C7"/>
+<text x="48" y="238" font-size="24" font-family="Arial,Helvetica,sans-serif" fill="#C0D0DE">Egyptian procedural time limits</text>
+<text x="48" y="314" font-size="15" letter-spacing=".4" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#75E3C7">Kotlin  /  Jetpack Compose  /  Android</text>
+<g transform="translate(704 45)">
+<circle cx="174" cy="147" r="129" fill="#0B2B32" stroke="#3FD4B7" stroke-opacity=".28" stroke-width="2"/>
+<circle cx="174" cy="147" r="101" fill="#143D46" stroke="#77F4D0" stroke-width="8" stroke-dasharray="360 275" transform="rotate(-90 174 147)"/>
+<circle cx="174" cy="147" r="119" fill="none" stroke="#66DBC0" stroke-opacity=".34" stroke-dasharray="3 10"/>
+<g stroke="#A4FFF0" stroke-width="5" stroke-linecap="round" fill="none"><path d="M174 87v63l44 31"/></g>
+<circle cx="174" cy="147" r="8" fill="#A2F2DC"/><circle cx="174" cy="147" r="8" fill="none" stroke="#B6FFF4"><animate attributeName="r" values="8;25;8" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="4s" repeatCount="indefinite"/></circle>
+<g font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#8FD9C9" text-anchor="middle"><text x="174" y="65">START</text><text x="174" y="243">REVIEW</text></g>
+<rect x="17" y="298" width="320" height="35" rx="7" fill="#15313A" stroke="#65D2B8" stroke-opacity=".48"/>
+<g stroke="#A3F6E2" stroke-width="3" stroke-linecap="round"><path d="M41 315h58M134 315h65M237 315h75"/></g>
+<g fill="#C6FFF1"><circle cx="116" cy="315" r="6"/><circle cx="218" cy="315" r="6"/></g>
+</g>
+<text x="48" y="374" font-size="13" letter-spacing="1.1" font-family="Arial,Helvetica,sans-serif" fill="#8FA6B6">BUILT FOR EGYPTIAN LEGAL PRACTICE</text>
+<text x="1033" y="374" text-anchor="end" font-size="11" letter-spacing="1" font-family="monospace" fill="#9AACBC">ILLUSTRATIVE CONCEPT / 03</text>
+</svg>
