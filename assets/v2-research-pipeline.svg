@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">From source to verified legal research</title>
+<desc id="desc">Original legal research flow: original legal source, text and provenance, Arabic retrieval and AI-assisted analysis, human legal review. No deployed model claims.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1526"/><stop offset="1" stop-color="#152B41"/></linearGradient><pattern id="p" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#93AFC4" opacity=".15"/></pattern><linearGradient id="line"><stop stop-color="#F0C98E"/><stop offset="1" stop-color="#92C9D9"/></linearGradient></defs>
+<rect width="1200" height="340" rx="18" fill="url(#bg)"/><rect width="1200" height="340" rx="18" fill="url(#p)"/>
+<text x="48" y="56" font-family="Arial,sans-serif" font-weight="800" font-size="26" letter-spacing="-1" fill="#F2F5F7">EVIDENCE BEFORE AUTOMATION</text>
+<text x="48" y="84" font-family="Arial,sans-serif" font-size="15" fill="#9DB6C8">A research method: transparent sources, traceable retrieval, human judgment.</text>
+<path d="M160 178H1040" stroke="#D6BE96" stroke-width="3" stroke-opacity=".5" stroke-dasharray="8 13"/>
+<circle r="7" fill="#F0D3A2"><animateMotion dur="8s" repeatCount="indefinite" path="M160 178 H1040"/></circle>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<g transform="translate(156 178)"><rect x="-105" y="-57" width="210" height="114" rx="13" fill="#192A40" stroke="#D4B681" stroke-width="2"/><path d="M-68 -26h137M-68 -10h97M-68 6h120" stroke="#D4C1A5" stroke-width="5" stroke-linecap="round"/><text y="32" font-weight="750" font-size="17" fill="#F5E6CA">ORIGINAL SOURCE</text></g>
+<g transform="translate(453 178)"><rect x="-106" y="-57" width="212" height="114" rx="13" fill="#192A40" stroke="#98BFD5" stroke-width="2"/><path d="M-71 -26h143M-71 -10h80M-71 6h122" stroke="#A9CADD" stroke-width="5" stroke-linecap="round"/><text y="32" font-weight="750" font-size="17" fill="#E0EBF2">TEXT + PROVENANCE</text></g>
+<g transform="translate(747 178)"><rect x="-108" y="-57" width="216" height="114" rx="13" fill="#192A40" stroke="#AF9AD3" stroke-width="2"/><g fill="#C1ABEC"><circle cx="-60" cy="-21" r="5"/><circle cx="-4" cy="-18" r="5"/><circle cx="52" cy="-21" r="5"/></g><g stroke="#C1ABEC" stroke-width="2"><path d="M-60 -21-4 -18 52 -21M-60 -21 10 7 52 -21"/></g><text y="32" font-weight="750" font-size="17" fill="#E5D9FA">ARABIC RETRIEVAL</text></g>
+<g transform="translate(1040 178)"><rect x="-110" y="-57" width="220" height="114" rx="13" fill="#283B43" stroke="#8CE1C2" stroke-width="2"/><path d="m-18 -7 14 13 24-28" fill="none" stroke="#8CE1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><text y="32" font-weight="750" font-size="17" fill="#C5F3E4">HUMAN REVIEW</text></g>
+</g>
+<text x="48" y="296" font-family="monospace" font-size="13" letter-spacing="1" fill="#B4C6D5">INGEST  →  STRUCTURE  →  SEARCH / AI-ASSISTED ANALYSIS  →  VERIFY AGAINST AUTHORITY</text>
+<text x="1150" y="48" text-anchor="end" font-family="monospace" font-size="12" fill="#D8B784">M / A · RESEARCH LAB</text>
+</svg>
