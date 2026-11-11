@@ -1,0 +1,20 @@
+name: Validate professional GitHub profile
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'assets/**'
+      - 'scripts/validate_profile.py'
+      - '.github/workflows/profile.yml'
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  profile-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify illustrated README and asset integrity
+        run: python3 scripts/validate_profile.py
