@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366" viewBox="0 0 1200 366" role="img" aria-labelledby="title desc">
+<title id="title">Mohamed Atef — law, software, applied AI</title>
+<desc id="desc">Midnight navy and brass editorial identity: legal scales formed from a digital network, with geometric court architecture and understated motion.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080F1D"/><stop offset=".56" stop-color="#101E30"/><stop offset="1" stop-color="#07101D"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E0C595"/><stop offset=".55" stop-color="#B99351"/><stop offset="1" stop-color="#F0D7A8"/></linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#758AA4" stroke-opacity=".07"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<rect width="1200" height="366" rx="18" fill="url(#bg)"/><rect width="1200" height="366" fill="url(#grid)"/>
+<path d="M0 310H1200M0 312H1200" stroke="#D7AF6B" opacity=".25"/>
+<g opacity=".1" fill="none" stroke="#C6D3DF" stroke-width="1.5"><path d="M850 321V135M930 321V105M1010 321V105M1090 321V135"/><path d="M832 135H1108L970 62Z"/><path d="M819 323H1118M835 330H1103"/></g>
+<rect x="68" y="73" width="3" height="217" rx="1.5" fill="url(#gold)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="101" y="115" fill="#D5BD92" font-size="13" letter-spacing="5">EGYPTIAN LAW  /  SOFTWARE ENGINEERING</text>
+ <text x="99" y="181" fill="#F5F1E9" font-size="51" font-weight="700" letter-spacing="2">MOHAMED ATEF</text>
+ <text x="102" y="224" fill="#B9C7D5" font-size="21" letter-spacing=".8">Lawyer  ·  Legal Tech Developer  ·  Applied AI</text>
+ <text x="102" y="271" fill="#C4A573" font-size="13" letter-spacing="3">BUILT FOR CLARITY. GROUNDED IN LAW.</text>
+</g>
+<g transform="translate(965 201)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <circle r="93" stroke="#C8AA75" stroke-opacity=".22"/>
+ <circle r="112" stroke="#A9C4E3" stroke-opacity=".08" stroke-dasharray="4 10"/>
+ <path d="M0 -93V57M-77 -44H77M-77 -44L-96 7M-77 -44L-58 7M77 -44L58 7M77 -44L96 7" stroke="url(#gold)" stroke-width="3"/>
+ <path d="M-103 7Q-77 39 -51 7ZM51 7Q77 39 103 7Z" fill="#B99351" fill-opacity=".18" stroke="#D3B985" stroke-width="2"/>
+ <path d="M-33 59H33M-45 69H45" stroke="url(#gold)" stroke-width="4"/>
+ <circle cy="-94" r="7" fill="#D6BD8F" stroke="none"/>
+ <path d="M-79 -44L-126 -85M79 -44L128 -85M0 -94L53 -129M-45 69L-81 97" stroke="#84A1BE" stroke-opacity=".38" stroke-dasharray="3 6"/>
+ <g fill="#C7AC7E" stroke="none"><circle cx="-126" cy="-85" r="4"/><circle cx="128" cy="-85" r="4"/><circle cx="53" cy="-129" r="4"/><circle cx="-81" cy="97" r="4"/></g>
+ <circle cx="128" cy="-85" r="9" stroke="#D4B67F" stroke-opacity=".4"><animate attributeName="r" values="5;13;5" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="-126" cy="-85" r="8" stroke="#D4B67F" stroke-opacity=".25"><animate attributeName="r" values="4;13;4" dur="5s" repeatCount="indefinite"/></circle>
+</g>
+<text x="1160" y="342" fill="#D5BD92" opacity=".56" text-anchor="end" font-size="11" font-family="Arial" letter-spacing="2">01 / LAW × TECHNOLOGY</text>
+</svg>
